@@ -8,7 +8,7 @@
                 <ul class="navigation">
                     <li><a href="#">Home</a><span class="hover_arrow"></span></li>
                     <li><a href="#">About Me</a><span class="hover_arrow"></span></li>
-                    <li><a href="#">Service</a><span class="hover_arrow"></span></li>
+                    <li><a href="#">My Services</a><span class="hover_arrow"></span></li>
                     <li><a href="#">Make Oppointment</a><span class="hover_arrow"></span></li>
                     <li><a href="#" style="padding-right:0px;">Contact Me</a><span class="hover_arrow"></span></li>
                 </ul>
